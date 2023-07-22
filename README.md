@@ -1,6 +1,4 @@
 # Fragrans
-Fragrans Game
-# Fragrans
 一个纯命令行游戏，运用Visual Studio 2022中的C++进行开发.
 
 通过玩家的操作，通过游戏的所有关卡，即可得到游戏的胜利.
