@@ -1,12 +1,12 @@
-#coifig{
-  file name = icon1
+#Coifig{
+  FileName = icon1
   
-  resolution ratio = 256*256
+  ResolutionRatio = 256*256
   
-  bits = 32
+  Bits = 32
   
-  file type = ico
+  FileType = ico
   
-  size = 46.5kb
+  Size = 46.5kb
 }
-Update Time = 2023/7/23
+UpdateTime = 2023/7/23
